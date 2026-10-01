@@ -4,10 +4,10 @@
 
 I'm a help desk technician and I've decided to pursue into cybersecurity as a SOC Analyst. Been interested in security for quite a long time having it resonate with my IT background, but realized I was missing hands-on experience and knowing I can grow in this path. I've decided to join the MYDFIR Forge where I'm getting practical hands-on experience with:
 
-● Microsoft Sentinel & Splunk
-● Security alert investigations
-● Incident documentation
-● Portfolio building
+- Microsoft Sentinel & Splunk
+- Security alert investigations
+- Incident documentation
+- Portfolio building
 
 I'm committing to posting about what I learn. Accountability + visibility = growth. Lets see where this journey takes me.
 
