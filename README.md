@@ -1,7 +1,6 @@
 # Hello, I'm Jermaine
 <a href="https://www.linkedin.com/in/jermaine-a-71184b141"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I'm a help desk technician and I've decided to pursue into cybersecurity as a SOC Analyst. Been interested in security for quite a long time having it resonate with my IT background, but realized I was missing hands-on experience and knowing I can grow in this path. I've decided to join the MYDFIR Forge where I'm getting practical hands-on experience with:
 
@@ -15,7 +14,7 @@ I'm committing to posting about what I learn. Accountability + visibility = grow
 #SOCAnalyst #Cybersecurity #CareerChange #MYDFIR
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -58,12 +57,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Test - Project
